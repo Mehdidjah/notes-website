@@ -234,7 +234,6 @@ Built with modern web technologies and inspired by:
 ## 📧 Contact
 
 **Mehdi**  
-Built with ❤️ for the modern web.
 
 ---
 
